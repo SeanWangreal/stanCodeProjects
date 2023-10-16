@@ -14,3 +14,5 @@ Watch my *[DEMO Video!](https://youtube.com/playlist?list=PLF8L22dfz3V4isZlmyH0B
 * [Baby Name Popularity Searching](https://github.com/SeanWangreal/stanCodeProjects/blob/394cb70eaba7e7627e9273421bb3f385cdd3d42f/stanCode_projects/babyname/babygraphics.py)
   
 * [Breakout Game](https://github.com/SeanWangreal/stanCodeProjects/blob/394cb70eaba7e7627e9273421bb3f385cdd3d42f/stanCode_projects/breakout/breakout.py)
+
+* [Boggle Game](https://github.com/SeanWangreal/stanCodeProjects/blob/394cb70eaba7e7627e9273421bb3f385cdd3d42f/stanCode_projects/boggle_game/boggle.py)
